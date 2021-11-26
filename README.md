@@ -1,5 +1,7 @@
 # Twitter Bootstrap
 
+![Bootstrap logo](https://i.imgur.com/qhtywl2.png)
+
 ## Начало работы
 **Twitter Bootstrap** - CSS-фрейморк [Оф.сайт](https://getbootstrap.com)
 
